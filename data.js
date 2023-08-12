@@ -4,6 +4,7 @@ const element3 = document.getElementsByClassName("b3")[0];
 const element4 = document.getElementsByClassName("b4")[0];
 const element5 = document.getElementsByClassName("big")[0];
 var color = "";
+chnages made
 element1.addEventListener("click", () => {
   color = element1.style.backgroundColor;
   change();
